@@ -1,0 +1,44 @@
+.box {
+    width: 500px;
+    height: 160px;
+    margin: 10px;
+    border: 3px solid rgb(229, 223, 105);
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: auto;
+    width: 500px;
+    box-shadow: 2px 2px 5px rgb(49, 46, 46);
+}
+
+td{
+    border-collapse: separate;
+    border: 2px solid rgb(69, 57, 56);
+}
+
+th{
+    border-collapse: separate;
+    border: 2px solid rgb(69, 57, 56);
+    background-color: rgb(71, 194, 67);
+   
+}
+
+.td1{
+    background-color: rgb(228, 160, 83);
+}
+
+.td2{
+    background-color: rgb(231, 231, 105);
+}
+
+.td3{
+    background-image: url(images/images.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin-left: auto;
+    margin-top: auto; 
+}
