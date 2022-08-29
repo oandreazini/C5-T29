@@ -1,0 +1,33 @@
+
+table{
+    margin: 10px;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse; 
+    border-style: solid;
+    text-align: center;
+    font-weight: bolder;
+}
+
+td{
+    border-collapse: separate;
+    border: rgb(117, 124, 126) 3px solid;
+}
+
+.row1{
+    background-color: rgb(0, 255, 187);
+}
+
+.row2{
+    text-align: left;
+    background-color: rgb(0, 110, 255);
+}
+
+.rowred{
+   color: red;
+}
+
+.row6{
+    text-align: right;
+    background-color: rgb(255, 0, 200);
+}
