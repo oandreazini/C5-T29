@@ -1,0 +1,31 @@
+body{
+  background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/20/49/57/23/700_FO20495723_c364d35d97ee33b9d6a18813229b4442.jpg,700,525,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,475,jpg)/fotomurales-pinguin.jpg.jpg");
+  background-repeat:no-repeat;
+  background-position: center center;
+  margin-top: 30%;
+  margin-bottom: 35%;
+  margin-left: 30%;
+}
+
+table{
+    width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse; 
+    border-style: solid;
+    text-align: center;
+}
+
+
+td{
+    border-collapse: separate;
+    border: rgb(117, 124, 126) 3px solid;
+}
+
+tr{
+    background-color: white;
+    font-weight: bolder;
+}
+
+.td1{
+    background-color: rgb(235, 215, 104);
+}
