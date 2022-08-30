@@ -1,0 +1,7 @@
+.box{
+    background-image: url("/Ex7/images/ac.jpg");
+    display: flex;
+    flex-wrap: wrap;
+    align-items: space-between;
+    
+}
