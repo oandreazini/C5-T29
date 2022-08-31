@@ -2,7 +2,7 @@
 ### Links de la T-29:
 
 #### URL Actividad 1:
-https://oandreazini.github.io/C5-T29/Ex1/index.html
+https://oandreazini.github.io/C5-T29/Ex1-deportes/index.html
 
 #### URL Actividad 2:
 https://oandreazini.github.io/C5-T29/Ex2/index.html
